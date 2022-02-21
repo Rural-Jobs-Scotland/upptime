@@ -4,7 +4,7 @@
     "url": "https://ruraljobsscotland.co.uk",
     "icon": "https://favicons.githubusercontent.com/ruraljobsscotland.co.uk",
     "slug": "rural-jobs-scotland",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 947,
     "timeMonth": 340,
     "timeYear": 340,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-21": 0
+    }
   }
 ]
